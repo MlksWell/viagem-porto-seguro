@@ -1,0 +1,9 @@
+{
+    "jpeg": {
+        "quality": 90,
+        "sharpen": true
+    },
+    "png": {
+        "quality": 75
+    }
+}
