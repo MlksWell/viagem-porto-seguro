@@ -52,4 +52,14 @@
             margin: 24px 0;
         }
     }
+
+    @media (max-width: 1024px) {
+        &__text {
+            font-size: 30px;
+            line-height: 42px;
+        }
+
+        padding-left: 20px;
+        padding-right: 20px;
+    }
 }
